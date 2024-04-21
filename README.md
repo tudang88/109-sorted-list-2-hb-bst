@@ -1,6 +1,6 @@
 # leetcode - medium
-# 199 Binary Tree Right Side View
-Given the head of a singly linked list where elements are sorted in ascending order, convert it to a height-balancedbinary search tree.
+# 109 Sorted Linked List to Height-Balanced BST 
+Given the head of a singly linked list where elements are sorted in ascending order, convert it to a height-balanced binary search tree.
 
 ## Example
 * Example 1:
